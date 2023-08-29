@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome to the show, pal. Let's get this party started.\n",
+  "loanAmount": "Alright, spill the beans. How much dough you lookin' to borrow?\n Enter Loan Amount:",
+  "loanDuration": "Time, huh? How long you plan on dancin' with this loan.\nEnter the Loan Duration:(Years) ",
+  "interestRate": "Interest rate? You're messin' with the juice, my friend.",
+  "aprResponse": "Alright, obviously the banks would be crazy not to give you the money. Whats that APR looking like?\nEnter your Annual Percentage Rate:(Example 10 = 10% / 10.5 = 10.5%) ",
+  "invalidNumberLoanAmount": "Hey, you call that a number for a loan? You're breakin' my heart here..",
+  "invalidNumberLoanDuration": "You're messin' with my time now? That ain't no number I've seen before.",
+  "invalidNumberApr": "Hey, what's this? Invalid interest rate? You tryin' to pull a fast one on me?",
+  "output": "Alright, listen up. Here's what the numbers are tellin' us.\nHere is your monthly mortgage payment.",
+  "reCalculate": "Back to the drawin board eh\nWould you like to calculate again? y/n"
+}

@@ -1,0 +1,16 @@
+{
+  "en": {
+    "welcome": "Welcome to Calculator! Enter your name:",
+    "validName": "Make sure to enter a valid name.",
+    "num1": "What's the first number",
+    "num2": "What's the second number",
+    "operation": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide"
+  },
+  "es": {
+    "welcome": "¡Bienvenido a Calculadora! Introduzca su nombre:",
+    "validName": "Asegúrate de ingresar un nombre válido.",
+    "num1": "cual es el primer numero",
+    "num2": "cual es el segundo numero",
+    "operation": "¿Qué operación te gustaría realizar?\n1) Sumar 2) Restar 3) Multiplicar 4) Dividir"
+  }
+}
